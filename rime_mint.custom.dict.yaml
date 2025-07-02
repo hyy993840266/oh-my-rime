@@ -17,4 +17,13 @@ import_tables:
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
   # - dicts/rime_ice.en
   # - dicts/rime_ice.en_ext
+  # - dicts/wx/base
+  # - dicts/wx/chars
+  # - dicts/wx/compatible
+  # - dicts/wx/corrections
+  # - dicts/wx/correlation
+  # - dicts/wx/people
+  # - dicts/wx/place
+  # - dicts/wx/poetry
+  # - dicts/wx/suggestion
 ...
